@@ -1,0 +1,121 @@
+[21-Nov-2014 14:53:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rpaintde/public_html/mafia/inventory.php on line 254
+[21-Nov-2014 14:54:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rpaintde/public_html/mafia/inventory.php on line 254
+[21-Nov-2014 14:54:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rpaintde/public_html/mafia/inventory.php on line 254
+[21-Nov-2014 14:56:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rpaintde/public_html/mafia/inventory.php on line 254
+[21-Nov-2014 14:56:52 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/rpaintde/public_html/mafia/inventory.php on line 15
+[21-Nov-2014 14:57:29 UTC] PHP Parse error:  syntax error, unexpected 'unequip' (T_STRING) in /home/rpaintde/public_html/mafia/inventory.php on line 15
+[21-Nov-2014 15:01:26 UTC] PHP Parse error:  syntax error, unexpected 'iteminfo' (T_STRING), expecting ',' or ';' in /home/rpaintde/public_html/mafia/inventory.php on line 185
+[21-Nov-2014 15:02:14 UTC] PHP Parse error:  syntax error, unexpected 'iteminfo' (T_STRING), expecting ',' or ';' in /home/rpaintde/public_html/mafia/inventory.php on line 185
+[21-Nov-2014 15:03:50 UTC] PHP Parse error:  syntax error, unexpected 'itmsellprice' (T_STRING), expecting ',' or ';' in /home/rpaintde/public_html/mafia/inventory.php on line 183
+[21-Nov-2014 15:04:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/rpaintde/public_html/mafia/inventory.php on line 185
+[21-Nov-2014 15:04:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/rpaintde/public_html/mafia/inventory.php on line 185
+[21-Nov-2014 15:17:20 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/rpaintde/public_html/mafia/inventory.php on line 238
+[04-Dec-2014 16:27:22 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rpaintde/public_html/mafia/jailbailuser.php on line 19
+[04-Dec-2014 16:34:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rpaintde/public_html/mafia/jail.php on line 72
+[04-Dec-2014 21:56:54 UTC] PHP Warning:  session_start(): open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in /home/rpaintde/public_html/mafia/core.php on line 3
+[04-Dec-2014 21:56:55 UTC] PHP Warning:  Unknown: open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Dec-2014 21:56:55 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Dec-2014 21:57:14 UTC] PHP Warning:  session_start(): open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in /home/rpaintde/public_html/mafia/core.php on line 3
+[04-Dec-2014 21:57:14 UTC] PHP Warning:  Unknown: open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Dec-2014 21:57:14 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Dec-2014 21:57:17 UTC] PHP Warning:  session_start(): open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in /home/rpaintde/public_html/mafia/core.php on line 3
+[04-Dec-2014 21:57:17 UTC] PHP Warning:  Unknown: open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Dec-2014 21:57:17 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Dec-2014 21:57:20 UTC] PHP Warning:  session_start(): open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in /home/rpaintde/public_html/mafia/core.php on line 3
+[04-Dec-2014 21:57:20 UTC] PHP Warning:  Unknown: open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Dec-2014 21:57:20 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-Dec-2014 21:57:23 UTC] PHP Warning:  session_start(): open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in /home/rpaintde/public_html/mafia/core.php on line 3
+[04-Dec-2014 21:57:23 UTC] PHP Warning:  Unknown: open(/tmp/sess_87c98f1ehdr31mbs75sd97sif1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[04-Dec-2014 21:57:23 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Dec-2014 11:00:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rpaintde/public_html/mafia/staff_items.php on line 505
+[05-Dec-2014 11:33:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rpaintde/public_html/mafia/iteminfo.php on line 210
+[05-Dec-2014 11:33:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rpaintde/public_html/mafia/iteminfo.php on line 210
+[05-Dec-2014 11:40:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rpaintde/public_html/mafia/iteminfo.php on line 212
+[05-Dec-2014 11:41:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rpaintde/public_html/mafia/iteminfo.php on line 213
+[05-Dec-2014 11:41:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rpaintde/public_html/mafia/iteminfo.php on line 213
+[05-Dec-2014 14:58:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rpaintde/public_html/mafia/login.php on line 262
+[05-Dec-2014 14:58:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rpaintde/public_html/mafia/login.php on line 262
+[05-Dec-2014 14:59:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rpaintde/public_html/mafia/login.php on line 262
+[05-Dec-2014 14:59:17 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/rpaintde/public_html/mafia/login.php on line 283
+[05-Dec-2014 15:02:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rpaintde/public_html/mafia/login.php on line 201
+[05-Dec-2014 15:08:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rpaintde/public_html/mafia/login.php on line 196
+[05-Dec-2014 15:08:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rpaintde/public_html/mafia/login.php on line 196
+[05-Dec-2014 15:11:04 UTC] PHP Fatal error:  Call to a member function mysql_fetch_array() on a non-object in /home/rpaintde/public_html/mafia/login.php on line 216
+[05-Dec-2014 15:11:56 UTC] PHP Fatal error:  Call to a member function mysql_fetch_array() on a non-object in /home/rpaintde/public_html/mafia/login.php on line 216
+[08-Dec-2014 10:56:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rpaintde/public_html/mafia/attack.php on line 7
+[08-Dec-2014 11:04:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rpaintde/public_html/mafia/attack.php on line 155
+[08-Dec-2014 11:04:56 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rpaintde/public_html/mafia/attack.php on line 155
+[08-Dec-2014 11:05:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rpaintde/public_html/mafia/attack.php on line 155
+[08-Dec-2014 11:05:11 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rpaintde/public_html/mafia/attack.php on line 155
+[08-Dec-2014 11:46:54 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/rpaintde/public_html/mafia/christmas.php on line 7
+[08-Dec-2014 11:47:00 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/rpaintde/public_html/mafia/christmas.php on line 7
+[08-Dec-2014 11:47:01 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/rpaintde/public_html/mafia/christmas.php on line 7
+[08-Dec-2014 11:47:13 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/rpaintde/public_html/mafia/christmas.php on line 7
+[08-Dec-2014 12:21:48 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rpaintde/public_html/mafia/attacklist.php on line 40
+[08-Dec-2014 12:33:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:33:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:33:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:33:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 12:34:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rpaintde/public_html/mafia/signup.php on line 394
+[08-Dec-2014 22:12:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rpaintde/public_html/mafia/attack.php on line 272
+[14-Dec-2014 14:53:09 UTC] PHP Parse error:  syntax error, unexpected ''You cannot edit the rank of t' (T_ENCAPSED_AND_WHITESPACE) in /home/rpaintde/public_html/mafia/business_manage.php on line 214
+[14-Dec-2014 14:53:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rpaintde/public_html/mafia/business_manage.php on line 367
+[14-Dec-2014 14:53:12 UTC] PHP Parse error:  syntax error, unexpected '' Company.</b><br />' (T_ENCAPSED_AND_WHITESPACE) in /home/rpaintde/public_html/mafia/business_manage.php on line 678
+[14-Dec-2014 14:53:14 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rpaintde/public_html/mafia/business_manage.php on line 782
+[14-Dec-2014 14:53:49 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/rpaintde/public_html/mafia/business_manage.php on line 178
+[14-Dec-2014 14:53:51 UTC] PHP Parse error:  syntax error, unexpected ''You cannot edit the rank of t' (T_ENCAPSED_AND_WHITESPACE) in /home/rpaintde/public_html/mafia/business_manage.php on line 214
+[14-Dec-2014 14:53:55 UTC] PHP Parse error:  syntax error, unexpected ''This member is p' (T_ENCAPSED_AND_WHITESPACE) in /home/rpaintde/public_html/mafia/business_manage.php on line 581
+[19-Dec-2014 04:14:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 04:14:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 04:15:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 04:16:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 04:17:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:42:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:42:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:42:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:42:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:42:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:43:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 05:43:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 07:25:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 07:25:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 07:28:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 07:28:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 20:40:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 20:40:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[19-Dec-2014 20:40:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 09:50:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 09:50:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 10:09:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 10:09:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 10:09:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 10:11:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 11:30:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 11:30:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 13:06:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 15:23:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 15:23:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 16:02:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[20-Dec-2014 17:13:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 02:38:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 04:10:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 06:37:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 11:45:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 11:45:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 12:12:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 12:13:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[21-Dec-2014 18:08:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rpaintde/public_html/mafia/attack.php on line 57
+[02-Jan-2015 12:12:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rpaintde/public_html/mafia/staff_special.php on line 126
+[22-Jan-2015 14:11:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rpaintde/public_html/mafia/usersonline.php on line 168
+[22-Jan-2015 14:11:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rpaintde/public_html/mafia/usersonline.php on line 168
+[22-Jan-2015 14:12:39 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/rpaintde/public_html/mafia/usersonline.php on line 172
+[22-Jan-2015 14:12:40 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/rpaintde/public_html/mafia/usersonline.php on line 172

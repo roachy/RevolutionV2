@@ -1,0 +1,121 @@
+body {
+margin-top: 0px;
+margin-bottom: 0px;
+font-family:calibri, helvetica, arial, geneva, sans-serif;font-size:12px;color: black;
+   scrollbar-base-color: #005B70; 
+   scrollbar-arrow-color: #F3960B;
+   scrollbar-DarkShadow-Color: #000000;
+}
+a:visited,a:active,a:hover,a:link { color: black;text-decoration: none; }
+table,tr,td { font-family:helvetica, arial, geneva, sans-serif;font-size: 15px; }
+img { border-radius:5px; }
+textarea { font-family:helvetica, arial, geneva, sans-serif;font-size:12px;color: black; }
+
+/* Revolution 2.0 Menu */
+
+
+#revolution-menu {
+	position: relative;
+    border-radius:5px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+#revolution-menu, #revolution-menu ul {
+    list-style:none;
+    padding:0;
+    width:250px;
+}
+#revolution-menu ul {
+    position:relative;
+    z-index:-1;
+}
+#revolution-menu li {
+    position:relative;
+    z-index:1;
+}
+#revolution-menu ul li {
+    margin-top:-23px;
+    -moz-transition:  0.4s linear 0.4s;
+    -ms-transition: 0.4s linear 0.4s;
+    -o-transition: 0.4s linear 0.4s;
+    -webkit-transition: 0.4s linear 0.4s;
+    transition: 0.4s linear 0.4s;
+}
+#revolution-menu li a {
+    background-color:#d4d5d8;
+    color:#000;
+    display:block;
+    font-size:12px;
+    font-weight:bold;
+    line-height:28px;
+    outline:0;
+    padding-left:15px;
+    text-decoration:none;
+}
+#revolution-menu li a.sub {
+    background:#d4d5d8 url("../images/down.gif") no-repeat;
+	height:32px;
+}
+#revolution-menu li a + img {
+    cursor:pointer;
+    display:none;
+    height:16px;
+    left:0;
+    position:absolute;
+    top:0;
+    width:200px;
+}
+#revolution-menu li a img {
+    border-width:0px;
+    height:16px;
+    line-height:50px;
+    margin-right:8px;
+    width:16px;
+}
+#revolution-menu li a:hover {
+    background-color:#bcbdc1;
+}
+#revolution-menu ul li a {
+    background-color:#eee;
+    border-bottom:1px solid #ccc;
+    color:#000;
+    font-size:11px;
+    line-height:22px;
+}
+#revolution-menu ul li a:hover {
+    background-color:#ddd;
+    color:#444;
+}
+#revolution-menu ul li a img {
+    background: url("../images/bulb.png") no-repeat;
+    border-width:0px;
+    height:16px;
+    line-height:22px;
+    margin-right:5px;
+    vertical-align:middle;
+    width:16px;
+}
+#revolution-menu ul li:nth-child(odd) a img {
+    background:url("../images/bulb2.png") no-repeat;
+}
+#revolution-menu a.sub:focus {
+    background:#bcbdc1;
+    outline:0;
+}
+#revolution-menu a:focus ~ ul li {
+    margin-top:0;
+
+}
+#revolution-menu a:focus + img, #revolution-menu a:active + img {
+    display:block;
+}
+#revolution-menu a.sub:active {
+    background:#bcbdc1;
+    outline:0;
+}
+#revolution-menu a:active ~ ul li {
+    margin-top:0;
+}
+#revolution-menu ul:hover li {
+    margin-top:0;
+}
